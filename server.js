@@ -7,7 +7,6 @@ const port = process.env.PORT || 3001;
 
 const app = express()
 app.listen(port, () => console.log(`Server listening on ${port}`))
-console.log(process.env.EXPRESS_SESSION_SECRET)
 app.use(cors())
 app.use(express.json())
 app.use(sessions)

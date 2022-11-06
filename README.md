@@ -2,7 +2,7 @@
 
 # Project Name
 
-this website is to search and save your favorite art and paintings in the Meet Musem
+This website is built by react and express.js. It is to search and save your favorite art and paintings in the Meet Musem. Users can login, logout and save the favorite arts in the account,
 
 ## :computer: [https://thawing-dusk-77645.herokuapp.com/](#) to see my live project!
 
